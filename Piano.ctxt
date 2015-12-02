@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.params=
+comment0.target=Piano()
+comment0.text=\r\n\ Make\ the\ piano.\r\n
+comment1.params=
+comment1.target=void\ prepare()
+comment2.params=
+comment2.target=void\ makeKeys()
+comment3.params=
+comment3.target=void\ act()
+comment3.text=\r\n\ \r\n
+numComments=4
